@@ -1,5 +1,9 @@
 # Projeto_AGROAVE
 
-> Integrantes do grupo que fizeram as interfaces
+> Integrantes do grupo 
 
 * Kauane Izidoro Marcolino
+* Raylayne 
+* Tainara
+* Sabrina 
+* Nathália
