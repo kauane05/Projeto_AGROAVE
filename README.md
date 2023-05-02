@@ -2,7 +2,7 @@
 
 > Integrantes do grupo 
 
-* Kauane Izidoro Marcolino
+* Kauane 
 * Raylayne 
 * Tainara
 * Sabrina 
