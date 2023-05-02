@@ -2,8 +2,8 @@
 
 > Integrantes do grupo 
 
-* Kauane 
+* Kauane Cadastrar Cliente- Pessoa Física
 * Raylayne 
-* Tainara
+* Tainara Cadastrar Estoque (Produção)
 * Sabrina 
 * Nathália
