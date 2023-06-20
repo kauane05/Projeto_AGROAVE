@@ -9,22 +9,21 @@
 
     <Grid>
         <Label Content="Controlar Acesso Perfil do Funcionário" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="-11.579,-4.698" FontFamily="Arial" FontWeight="Bold" Width="522" FontSize="16" Height="37"/>
-        <Label Content="NOME:" HorizontalAlignment="Left" Margin="262,65,0,0" VerticalAlignment="Top" RenderTransformOrigin="-11.579,-4.698" FontFamily="Arial" FontWeight="Bold" Width="48"/>
-        <TextBox x:Name="txtNome" HorizontalAlignment="Left" Margin="262,94,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="433" Height="26"/>
-        <Label Content="CPF:" HorizontalAlignment="Left" Margin="268,125,0,0" VerticalAlignment="Top" RenderTransformOrigin="-11.579,-4.698" FontFamily="Arial" FontWeight="Bold" Width="36"/>
-        <TextBox x:Name="txtCpf" HorizontalAlignment="Center" Margin="0,154,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="326" Height="22"  />
-        <Image Margin="28,47,658,250" Source="/icon perfil2.png" Stretch="Fill"/>
-        <Label Content="RG:" HorizontalAlignment="Left" Margin="28,226,0,0" VerticalAlignment="Top" RenderTransformOrigin="-11.579,-4.698" FontFamily="Arial" FontWeight="Bold" Width="37"/>
-        <TextBox x:Name="txtRg"  HorizontalAlignment="Left" Margin="28,250,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="222" Height="27"/>
-        <Label Content="CONTATO:" HorizontalAlignment="Left" Margin="28,277,0,0" VerticalAlignment="Top" RenderTransformOrigin="-11.579,-4.698" FontFamily="Arial" FontWeight="Bold" Width="87"/>
-        <TextBox x:Name="txtContato" HorizontalAlignment="Left" Margin="28,306,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="327" Height="22"/>
-        <Label Content="E-MAIL:" HorizontalAlignment="Left" Margin="24,328,0,0" VerticalAlignment="Top" RenderTransformOrigin="-11.579,-4.698" FontFamily="Arial" FontWeight="Bold" Width="88"/>
-        <TextBox x:Name="txtEmail" HorizontalAlignment="Left" Margin="28,357,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="382" Height="27" />
-        <Label Content="FUNÇÃO:" HorizontalAlignment="Left" Margin="483,277,0,0" VerticalAlignment="Top" RenderTransformOrigin="-11.579,-4.698" FontFamily="Arial" FontWeight="Bold" Width="80"/>
-        <TextBox x:Name="txtFuncao" HorizontalAlignment="Left" Margin="483,306,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="327" Height="22"/>
-        <Label Content="SETOR:" HorizontalAlignment="Left" Margin="483,226,0,0" VerticalAlignment="Top" RenderTransformOrigin="-11.579,-4.698" FontFamily="Arial" FontWeight="Bold" Width="80"/>
-        <TextBox x:Name="txtSetor" HorizontalAlignment="Left" Margin="483,250,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="327" Height="22"/>
-        <Button Content="Voltar" HorizontalAlignment="Left" Margin="110,407,0,0" VerticalAlignment="Top" Width="126" Height="33" Background="#FF77BBE0" FontFamily="Arial" FontWeight="Bold" Click="Button_Click_1"/>
-        <Button Content="Salvar" HorizontalAlignment="Left" Margin="605,411,0,0" VerticalAlignment="Top" Width="126" Height="33" Background="#FF77BBE0" FontFamily="Arial" FontWeight="Bold" Click="Button_Click"/>
+        <Label Content="NOME:" HorizontalAlignment="Left" Margin="24,61,0,0" VerticalAlignment="Top" RenderTransformOrigin="-11.579,-4.698" FontFamily="Arial" FontWeight="Bold" Width="48"/>
+        <TextBox x:Name="txtNome" HorizontalAlignment="Left" Margin="30,90,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="433" Height="24"/>
+        <Label Content="CPF:" HorizontalAlignment="Left" Margin="30,121,0,0" VerticalAlignment="Top" RenderTransformOrigin="-11.579,-4.698" FontFamily="Arial" FontWeight="Bold" Width="36"/>
+        <TextBox x:Name="txtCpf" HorizontalAlignment="Left" Margin="30,150,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="326" Height="24"  />
+        <Label Content="RG:" HorizontalAlignment="Left" Margin="30,203,0,0" VerticalAlignment="Top" RenderTransformOrigin="-11.579,-4.698" FontFamily="Arial" FontWeight="Bold" Width="37"/>
+        <TextBox x:Name="txtRg"  HorizontalAlignment="Left" Margin="30,227,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="222" Height="24"/>
+        <Label Content="CONTATO:" HorizontalAlignment="Left" Margin="30,254,0,0" VerticalAlignment="Top" RenderTransformOrigin="-11.579,-4.698" FontFamily="Arial" FontWeight="Bold" Width="87"/>
+        <TextBox x:Name="txtContato" HorizontalAlignment="Left" Margin="30,283,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="327" Height="24"/>
+        <Label Content="E-MAIL:" HorizontalAlignment="Left" Margin="26,305,0,0" VerticalAlignment="Top" RenderTransformOrigin="-11.579,-4.698" FontFamily="Arial" FontWeight="Bold" Width="88"/>
+        <TextBox x:Name="txtEmail" HorizontalAlignment="Left" Margin="30,334,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="382" Height="24" />
+        <Label Content="FUNÇÃO:" HorizontalAlignment="Left" Margin="482,310,0,0" VerticalAlignment="Top" RenderTransformOrigin="-11.579,-4.698" FontFamily="Arial" FontWeight="Bold" Width="80"/>
+        <TextBox x:Name="txtFuncao" HorizontalAlignment="Left" Margin="482,339,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="327" Height="24"/>
+        <Label Content="SETOR:" HorizontalAlignment="Left" Margin="482,259,0,0" VerticalAlignment="Top" RenderTransformOrigin="-11.579,-4.698" FontFamily="Arial" FontWeight="Bold" Width="80"/>
+        <TextBox x:Name="txtSetor" HorizontalAlignment="Left" Margin="482,283,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="327" Height="24"/>
+        <Button Content="Voltar" HorizontalAlignment="Left" Margin="95,386,0,0" VerticalAlignment="Top" Width="126" Height="33" Background="#FF77BBE0" FontFamily="Arial" FontWeight="Bold" Click="Button_Click_1"/>
+        <Button Content="Salvar" HorizontalAlignment="Left" Margin="582,386,0,0" VerticalAlignment="Top" Width="126" Height="33" Background="#FF77BBE0" FontFamily="Arial" FontWeight="Bold" Click="Button_Click"/>
     </Grid>
 </Window>

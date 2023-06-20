@@ -77,3 +77,27 @@ D:\Arquivos Usuários\Documents\GitHub\Projeto_AGROAVE\AppInterfaces\AppInterfac
 D:\Arquivos Usuários\Documents\GitHub\Projeto_AGROAVE\AppInterfaces\AppInterfaces\obj\Debug\AppInterfaces.Properties.Resources.resources
 D:\Arquivos Usuários\Documents\GitHub\Projeto_AGROAVE\AppInterfaces\AppInterfaces\obj\Debug\AppInterfaces.csproj.GenerateResource.cache
 D:\Arquivos Usuários\Documents\GitHub\Projeto_AGROAVE\AppInterfaces\AppInterfaces\obj\Debug\AppInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\2020102011067-7\Documents\GitHub\Projeto_AGROAVE\AppInterfaces\AppInterfaces\bin\Debug\AppInterfaces.exe.config
+C:\Users\2020102011067-7\Documents\GitHub\Projeto_AGROAVE\AppInterfaces\AppInterfaces\bin\Debug\AppInterfaces.exe
+C:\Users\2020102011067-7\Documents\GitHub\Projeto_AGROAVE\AppInterfaces\AppInterfaces\bin\Debug\AppInterfaces.pdb
+C:\Users\2020102011067-7\Documents\GitHub\Projeto_AGROAVE\AppInterfaces\AppInterfaces\obj\Debug\AppInterfaces.csproj.AssemblyReference.cache
+C:\Users\2020102011067-7\Documents\GitHub\Projeto_AGROAVE\AppInterfaces\AppInterfaces\obj\Debug\AppInterfaces.csproj.SuggestedBindingRedirects.cache
+C:\Users\2020102011067-7\Documents\GitHub\Projeto_AGROAVE\AppInterfaces\AppInterfaces\obj\Debug\CadastrarCliente.g.cs
+C:\Users\2020102011067-7\Documents\GitHub\Projeto_AGROAVE\AppInterfaces\AppInterfaces\obj\Debug\CadastrarEstoqueProducao.g.cs
+C:\Users\2020102011067-7\Documents\GitHub\Projeto_AGROAVE\AppInterfaces\AppInterfaces\obj\Debug\CadastrarFornecedor1.g.cs
+C:\Users\2020102011067-7\Documents\GitHub\Projeto_AGROAVE\AppInterfaces\AppInterfaces\obj\Debug\ControlarPerfilFuncionario.g.cs
+C:\Users\2020102011067-7\Documents\GitHub\Projeto_AGROAVE\AppInterfaces\AppInterfaces\obj\Debug\MainWindow.g.cs
+C:\Users\2020102011067-7\Documents\GitHub\Projeto_AGROAVE\AppInterfaces\AppInterfaces\obj\Debug\App.g.cs
+C:\Users\2020102011067-7\Documents\GitHub\Projeto_AGROAVE\AppInterfaces\AppInterfaces\obj\Debug\AppInterfaces_MarkupCompile.cache
+C:\Users\2020102011067-7\Documents\GitHub\Projeto_AGROAVE\AppInterfaces\AppInterfaces\obj\Debug\AppInterfaces_MarkupCompile.lref
+C:\Users\2020102011067-7\Documents\GitHub\Projeto_AGROAVE\AppInterfaces\AppInterfaces\obj\Debug\CadastrarCliente.baml
+C:\Users\2020102011067-7\Documents\GitHub\Projeto_AGROAVE\AppInterfaces\AppInterfaces\obj\Debug\CadastrarEstoqueProducao.baml
+C:\Users\2020102011067-7\Documents\GitHub\Projeto_AGROAVE\AppInterfaces\AppInterfaces\obj\Debug\CadastrarFornecedor1.baml
+C:\Users\2020102011067-7\Documents\GitHub\Projeto_AGROAVE\AppInterfaces\AppInterfaces\obj\Debug\ControlarPerfilFuncionario.baml
+C:\Users\2020102011067-7\Documents\GitHub\Projeto_AGROAVE\AppInterfaces\AppInterfaces\obj\Debug\MainWindow.baml
+C:\Users\2020102011067-7\Documents\GitHub\Projeto_AGROAVE\AppInterfaces\AppInterfaces\obj\Debug\AppInterfaces.g.resources
+C:\Users\2020102011067-7\Documents\GitHub\Projeto_AGROAVE\AppInterfaces\AppInterfaces\obj\Debug\AppInterfaces.Properties.Resources.resources
+C:\Users\2020102011067-7\Documents\GitHub\Projeto_AGROAVE\AppInterfaces\AppInterfaces\obj\Debug\AppInterfaces.csproj.GenerateResource.cache
+C:\Users\2020102011067-7\Documents\GitHub\Projeto_AGROAVE\AppInterfaces\AppInterfaces\obj\Debug\AppInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\2020102011067-7\Documents\GitHub\Projeto_AGROAVE\AppInterfaces\AppInterfaces\obj\Debug\AppInterfaces.exe
+C:\Users\2020102011067-7\Documents\GitHub\Projeto_AGROAVE\AppInterfaces\AppInterfaces\obj\Debug\AppInterfaces.pdb

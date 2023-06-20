@@ -31,22 +31,14 @@ namespace AppInterfaces
 
         private void MainWindow_Loaded(object sender, RoutedEventArgs e)
         {
-            perfil = new Perfil();
-            perfilList = new List<Perfil>();
-            /*txtNome.Text = _perfil.Nome;
-            txtCpf.Text = _perfil.Cpf;
-            txtContato.Text = _perfil.Telefone;
-            txtRg.Text = _perfil.Rg;
-            txtEmail.Text = _perfil.Email;
-            txtFuncao.Text = _perfil.Funcao;
-            txtSetor.Text = _perfil.Setor;*/
+            
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             string nome, cpf, contato, rg, email, funcao, setor;
 
-            perfil.Nome = txtNome.Text;
+            nome = txtNome.Text;
             cpf = txtCpf.Text;
             contato = txtContato.Text;
             rg = txtRg.Text;
