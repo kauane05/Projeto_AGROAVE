@@ -5,13 +5,22 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:AppInterfaces"
         mc:Ignorable="d"
-        Title="CadastrarCliente" Height="450" Width="850">
+        Title="CadastrarCliente" Height="470" Width="850">
     <Grid>
         <Label Content="NOME:" HorizontalAlignment="Left" Margin="57,52,0,0" VerticalAlignment="Top" RenderTransformOrigin="-11.579,-4.698" FontFamily="Arial" FontWeight="Bold" Width="49"/>
         <Label Content="E-MAIL:" HorizontalAlignment="Left" Margin="57,112,0,0" VerticalAlignment="Top" RenderTransformOrigin="-11.579,-4.698" Height="28" FontFamily="Arial" FontWeight="Bold" Width="54"/>
         <Label Content="CPF:" HorizontalAlignment="Left" Margin="436,52,0,0" VerticalAlignment="Top" RenderTransformOrigin="-11.579,-4.698" FontFamily="Arial" FontWeight="Bold" Width="37"/>
         <Label Content="TELEFONE:" HorizontalAlignment="Left" Margin="436,112,0,0" VerticalAlignment="Top" RenderTransformOrigin="-11.579,-4.698" Height="28" FontFamily="Arial" FontWeight="Bold" Width="76"/>
-        <TextBox HorizontalAlignment="Left" Margin="57,78,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="292" Height="22"/>
+        <TextBox HorizontalAlignment="Left" Margin="42,75,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="292" Height="22" RenderTransformOrigin="0.5,0.5">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.107"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
         <TextBox HorizontalAlignment="Left" Margin="436,140,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="292" Height="24" Background="White"/>
         <TextBox HorizontalAlignment="Left" Margin="57,140,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="292" Height="24"/>
         <TextBox HorizontalAlignment="Left" Margin="436,78,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="292" Height="22"/>

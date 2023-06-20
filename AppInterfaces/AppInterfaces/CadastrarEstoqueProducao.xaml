@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:AppInterfaces"
         mc:Ignorable="d"
-        Title="CadastrarEstoqueProducao" Height="450" Width="850">
+        Title="CadastrarEstoqueProducao" Height="470" Width="850">
     <Grid>
         <TextBlock HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="CADASTRAR ESTOQUE (PRODUÇÃO)" VerticalAlignment="Top" FontFamily="Arial" Height="24" Width="340" FontSize="16" FontWeight="Bold"/>
         <Label Content="NOME DO PRODUTO:" HorizontalAlignment="Left" Margin="100,63,0,0" VerticalAlignment="Top" TextBlock.FontFamily="Arial"/>

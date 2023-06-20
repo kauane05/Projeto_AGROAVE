@@ -67,7 +67,7 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="ControlarAcessoAoPerfil.xaml">
+    <Page Include="ControlarPerfilFuncionario.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -88,8 +88,8 @@
     <Compile Include="CadastrarFornecedor1.xaml.cs">
       <DependentUpon>CadastrarFornecedor1.xaml</DependentUpon>
     </Compile>
-    <Compile Include="ControlarAcessoAoPerfil.xaml.cs">
-      <DependentUpon>ControlarAcessoAoPerfil.xaml</DependentUpon>
+    <Compile Include="ControlarPerfilFuncionario.xaml.cs">
+      <DependentUpon>ControlarPerfilFuncionario.xaml</DependentUpon>
     </Compile>
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
@@ -97,6 +97,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Models\Perfil.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -124,6 +125,9 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="WhatsApp Image 2023-05-03 at 00.03.16.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="icon perfil2.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

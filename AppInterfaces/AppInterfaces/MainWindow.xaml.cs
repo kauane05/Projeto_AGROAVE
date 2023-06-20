@@ -40,7 +40,7 @@ namespace AppInterfaces
 
         private void btControlarAcesso_Click(object sender, RoutedEventArgs e)
         {
-            ControlarAcessoAoPerfil form = new ControlarAcessoAoPerfil();
+            ControlarPerfilFuncionario form = new ControlarPerfilFuncionario();
             form.ShowDialog();
         }
 

@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Renata\Desktop\AppInterfaces\AppInterfaces\obj\Debug\
+D:\Arquivos Usuários\Documents\GitHub\Projeto_AGROAVE\AppInterfaces\AppInterfaces\obj\Debug\
 AppInterfaces
 none
 false
 DEBUG;TRACE
-C:\Users\Renata\Desktop\AppInterfaces\AppInterfaces\App.xaml
-5-937639993
+D:\Arquivos Usuários\Documents\GitHub\Projeto_AGROAVE\AppInterfaces\AppInterfaces\App.xaml
+51609359480
 
-10-553277315
+111788042218
 13-1310406943
-CadastrarCliente.xaml;CadastrarEstoqueProducao.xaml;CadastrarFornecedor1.xaml;ControlarAcessoAoPerfil.xaml;MainWindow.xaml;
+CadastrarCliente.xaml;CadastrarEstoqueProducao.xaml;CadastrarFornecedor1.xaml;ControlarPerfilFuncionario.xaml;MainWindow.xaml;
 
-True
+False
 
